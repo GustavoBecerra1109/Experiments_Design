@@ -1,6 +1,6 @@
 Class	Students
 A	57
-B	55
-C	59
-D	56
+B	45
+C 49
+D	36
 E	63
