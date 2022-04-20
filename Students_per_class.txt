@@ -1,0 +1,6 @@
+Class	Students
+A	45
+B	55
+C	29
+D	56
+E	40
